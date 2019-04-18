@@ -1,6 +1,6 @@
 # law_one
 
-A new Flutter project.
+A Flutter Reddit demo project.
 
 ## Getting Started
 
